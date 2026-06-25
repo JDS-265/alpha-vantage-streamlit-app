@@ -1,0 +1,8 @@
+.env
+.vscode/
+__pycache__/
+*.pyc
+.venv/
+venv/
+Data/cache/
+.streamlit/secrets.toml
